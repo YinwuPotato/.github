@@ -17,6 +17,7 @@
 | [YinwuRaid](https://github.com/YinwuPotato/YinwuRaid) | 灾厄袭击：倒置信标、灾厄之种、多波次袭击（精英 / Boss）、14 职业村民奖励 |
 | [YinwuEnchant](https://github.com/YinwuPotato/YinwuEnchant) | 34 个自定义附魔（PDC 存储）、单物品附魔开关 GUI、Deeper Dark 附魔拦截 |
 | [YinwuFlightBlock](https://github.com/YinwuPotato/YinwuFlightBlock) | 飞行方块：范围内非创造 / 非旁观玩家自动获得飞行 |
+| [YinwuLottery](https://github.com/YinwuPotato/YinwuLottery) | 酒方抽奖：6×9 箱子转盘（可配置减速停止、音效与动画），需要 BreweryX 提供酒方、Vault / VaultUnlocked 提供经济 |
 | [ShootEXP-folia](https://github.com/YinwuPotato/ShootEXP-folia) | 经验射击（上游 [ShootEXP](https://github.com/qumingjam/ShootEXP-folia) 的 Folia 分支） |
 
 ## Van —— Van 服（Canvas 26.3 / Folia 区域线程）
