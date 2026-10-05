@@ -18,6 +18,7 @@
 | [YinwuEnchant](https://github.com/YinwuPotato/YinwuEnchant) | 34 个自定义附魔（PDC 存储）、单物品附魔开关 GUI、Deeper Dark 附魔拦截 |
 | [YinwuFlightBlock](https://github.com/YinwuPotato/YinwuFlightBlock) | 飞行方块：范围内非创造 / 非旁观玩家自动获得飞行 |
 | [YinwuLlamaGuard](https://github.com/YinwuPotato/YinwuLlamaGuard) | 羊驼防卫：玩家 32 格内的羊驼自动攻击范围内的幻翼（原版机制与伤害不变，只是吐得更勤）；带每只羊驼独立的开关与战绩统计 |
+| [YinwuTax](https://github.com/YinwuPotato/YinwuTax) | 税务插件：为服务器提供更加清晰、灵活的税务管理能力。插件围绕经济系统运行，支持按配置自动结算税单） |
 | [YinwuLottery](https://github.com/YinwuPotato/YinwuLottery) | 酒方抽奖：6×9 箱子转盘（可配置减速停止、音效与动画），需要 BreweryX 提供酒方、Vault / VaultUnlocked 提供经济 |
 | [ShootEXP-folia](https://github.com/YinwuPotato/ShootEXP-folia) | 经验射击（上游 [ShootEXP](https://github.com/qumingjam/ShootEXP-folia) 的 Folia 分支） |
 
