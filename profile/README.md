@@ -1,4 +1,4 @@
-# Yinwu 插件
+# Yinwu 插件系列
 
 为 **Yinwu 服务器群组**开发的自制 Minecraft 服务端插件：后端服（Paper / Folia）、Van 服（Canvas）、
 以及 Velocity 代理。全部按平台分仓库维护。
